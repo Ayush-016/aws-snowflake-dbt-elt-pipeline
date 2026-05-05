@@ -323,9 +323,6 @@ dbt automatically tracks data lineage, showing:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is part of a data engineering portfolio demonstration.
 
 ## 👤 Author
 
@@ -350,12 +347,3 @@ This project is part of a data engineering portfolio demonstration.
    - Run `dbt run --full-refresh` to rebuild from scratch
    - Verify source data timestamps
 
-## 📊 Future Enhancements
-
-- [ ] Add data quality dashboards
-- [ ] Implement CI/CD pipeline
-- [ ] Add more complex business metrics
-- [ ] Integrate with BI tools (Tableau/Power BI)
-- [ ] Add alerting and monitoring
-- [ ] Implement data masking for PII
-- [ ] Add more comprehensive testing suite
