@@ -1,0 +1,7 @@
+
+target/
+dbt_packages/
+logs/
+
+# dbt sensititve config
+profiles.yml

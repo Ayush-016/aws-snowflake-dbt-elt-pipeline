@@ -1,0 +1,1 @@
+{% set cols = ['NIGHTS_BOOKED', ]%}
